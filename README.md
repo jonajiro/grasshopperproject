@@ -1,7 +1,6 @@
 # GrassHopperProject
 Development of limb robot
 # DEMO
-![n4xperia_180x320_fps10](https://user-images.githubusercontent.com/79733514/109374602-e3dc7d80-78f9-11eb-9efc-c0545fdd1153.gif)
-
+![trot_180x320_fps10](https://user-images.githubusercontent.com/79733514/109375685-096d8500-7902-11eb-9179-8067a2b45de5.gif)
 # Author 
 * jona次郎
